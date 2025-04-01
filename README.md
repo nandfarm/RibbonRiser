@@ -5,4 +5,11 @@ Lenovo Tiny 5 series riser card with a ribbon extension to connect an extra NVME
 
 This is a prototype version of the device intended to check the impedance traces and the ribbon design. DO NOT reproduce as it is not guaranteed to work yet. 
 
+![alt text](https://github.com/nandfarm/RibbonRiser/blob/main/Photos/Screenshot%202025-04-01%20175311.jpg)
+![alt text](https://github.com/nandfarm/RibbonRiser/blob/main/Photos/Screenshot%202025-04-01%20175225.jpg)
+![alt text](https://github.com/nandfarm/RibbonRiser/blob/main/Photos/Screenshot%202025-04-01%20175123.jpg)
+![alt text](https://github.com/nandfarm/RibbonRiser/blob/main/Photos/Screenshot%202025-04-01%20175146.jpg)
+
+
+
 
