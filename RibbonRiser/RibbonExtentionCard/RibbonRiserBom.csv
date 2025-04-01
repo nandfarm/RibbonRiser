@@ -1,0 +1,8 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"C1,C6","47u","~","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","2",""
+"C3,C5","100n","~","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","2",""
+"CON1","APCI0107-P001A","https://item.szlcsc.com/899447.html","importedlibs:CONN-SMD_APCI0107-P001A","1",""
+"D2","LED","~","LED_SMD:LED_0805_2012Metric","1",""
+"R2","10k","~","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","1",""
+"R3","220","~","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","1",""
+"U1","HC-FPC-0_5-40P-CSH20","https://atta.szlcsc.com/upload/public/pdf/source/20231201/8F1C6588257103362B533B7203431779.pdf","importedlibs:FPC-SMD_40P-P0.50_HC-FPC-0.5-40P-CSH20","1",""
